@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Food Website Project**
 
-- 🌱 I’m currently learning **Node.js, Express.js, React.js, Mongodb Database**
+- 🌱 I’m currently learning **Node.js, Express.js, Mongodb Database**
 
 - 👯 I’m looking to collaborate on **Challenging Projects**
 
