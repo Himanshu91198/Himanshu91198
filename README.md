@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Challenging Projects**
 
-- 💬 Ask me about **HTML, CSS3, Javascript, JQuery, Bootstrap, Java, C++, C, Python, PHP, WordPress.**
+- 💬 Ask me about **HTML, CSS3, Javascript, JQuery, Bootstrap, Java, C++, C, Python, SQL.**
 
 - 📫 How to reach me **auti.himanshu9@gmail.com**
 
