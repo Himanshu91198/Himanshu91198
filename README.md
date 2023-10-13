@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Auti</h1>
 <h3 align="center">A Passionate and Enthusiastic Developer from India</h3>
 
-- 🔭 I’m currently working on **Food Website Project**
+- 🔭 I’m currently working on **React Based Projects**
 
 - 🌱 I’m currently learning **Node.js, Express.js, Mongodb Database**
 
