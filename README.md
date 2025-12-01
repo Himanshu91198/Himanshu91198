@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Himanshu Auti</h1>
 <h3 align="center">A Passionate and Enthusiastic Developer from India</h3>
 
-- 🔭 I’m currently working on **React Based Projects**
+- 🔭 I’m currently working on **React & .NET C#/Node.js Based Projects**
 
-- 🌱 I’m currently learning **Node.js, Express.js, Mongodb Database**
+- 🌱 I’m currently learning **ReactNative, GSAP and Three.js**
 
 - 👯 I’m looking to collaborate on **Challenging Projects**
 
-- 💬 Ask me about **HTML, CSS3, Javascript, JQuery, Bootstrap, Java, C++, C, Python, SQL.**
+- 💬 Ask me about **JavaScript, Typescript, Python, C#, HTML/CSS, React.js, Redux, Zustand, Next.js, Node.js, Express.js, .NET Entity, JQuery, GitBash, Mysql, MongoDB,
+PostgreSQL, GitHub, Bootstrap, Tailwind, Postman, Webpack, Babel, Jest**
 
 - 📫 How to reach me **auti.himanshu9@gmail.com**
 
